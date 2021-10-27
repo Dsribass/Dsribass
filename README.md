@@ -9,7 +9,7 @@
 ### Contact Me
 |📞 *99123 2594*
 
-|✉️ *ds_ribas@hotmail.com* | *danielribas17@gmail.com*
+|✉️ *dani.souza.ribas@gmail.com* | *danielribas17@gmail.com*
 
 | <a href="https://www.linkedin.com/in/daniel-ribas-125062209/"><img src = "https://img.shields.io/badge/-Linkedin-0a66c2?style=flat&logo=linkedin&logoColor=white"></a>
 
