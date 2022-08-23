@@ -1,11 +1,10 @@
-### - 👋 Hi, I’m Daniel Ribas!
-- I'm a Systems Development student, and I love learning new technologies and languages.
+### 👋 Hi, I’m Daniel Ribas!
 
-### - Technical Skills
+#### - Technical Skills
 <img src = "https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img src = "https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"><br />
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 
-### Contact Me
+#### Contact Me
 |📞 *99123 2594*
 
 |✉️ *dani.souza.ribas@gmail.com* | *danielribas17@gmail.com*
