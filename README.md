@@ -5,8 +5,6 @@
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 
 #### Contact Me
-|📞 *99123 2594*
-
 |✉️ *dani.souza.ribas@gmail.com* | *danielribas17@gmail.com*
 
 | <a href="https://www.linkedin.com/in/daniel-ribas-125062209/"><img src = "https://img.shields.io/badge/-Linkedin-0a66c2?style=flat&logo=linkedin&logoColor=white"></a>
