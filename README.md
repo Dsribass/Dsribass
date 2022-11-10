@@ -1,7 +1,8 @@
 
 ### 👋 Olá, sou o Daniel Ribas!
 
-Estudo e trabalho com programação desde 2020, ano em que entrei na faculdade e aprofundei meus conhecimentos nessa área que tanto gosto. Por um tempo estudei e trabalhei com web, onde criei e publiquei alguns projetos web. Hoje, sou desenvolvedor Flutter e já atuei na criação e manutenção de projetos. Atualmente tenho me aprofundado no desenvolvimento em iOS, utilizando Swift e UIKit.
+Estudo Análise e Desenvolvimento de Sistemas no IFSP e trabalho com programação desde 2020. 
+Sou desenvolvedor Flutter e iOS. Possuo 1 ano de experiência trabalhando em projetos Flutter, e mais recentemente tenho me aprofundado em iOS, aprendendo Swift e UIKit.
 
 #### - Technical Skills
  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img src = "https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"><br />
