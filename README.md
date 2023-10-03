@@ -1,18 +1,27 @@
 
-### 👋 Olá, sou o Daniel Ribas!
+### 👋 Olá, sou o Daniel!
+> Sou um **Desenvolvedor Mobile** especializado em **Flutter** e **iOS**, focado em trazer a melhor experiência para o usuário.
 
-Estudo Análise e Desenvolvimento de Sistemas no IFSP e trabalho com programação desde 2020. 
-Sou desenvolvedor Flutter e iOS. Possuo 1 ano de experiência trabalhando em projetos Flutter, e mais recentemente tenho me aprofundado em iOS, aprendendo Swift e UIKit.
+### Sobre
+💼 Mobile Developer [@Tokenlab](https://tokenlab.com.br/pt/home)
 
-#### - Technical Skills
- <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img src = "https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"><br />
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+🏫 Instituto Federal de São Paulo - IFSP
 
-#### Contact Me
-|✉️ *dani.souza.ribas@gmail.com* | *danielribas17@gmail.com*
+📌 São Carlos - SP
 
-| <a href="https://www.linkedin.com/in/daniel-ribas-125062209/"><img src = "https://img.shields.io/badge/-Linkedin-0a66c2?style=flat&logo=linkedin&logoColor=white"></a>
+### Soft Skills
+- Trabalho em Equipe
+- Comunicação
+- Proatividade
+- Criatividade
 
+### Hard Skills
+- Flutter
+- Swift / UIKit
+- SOLID
+- Clean Code
 
+### Contato
+Email: dani.souza.ribas@gmail.com
 
-
+LinkedIn: https://www.linkedin.com/in/dsribas/
