@@ -1,27 +1,55 @@
+# 👋 Olá, sou o Daniel!
 
-### 👋 Olá, sou o Daniel!
-> Sou um **Desenvolvedor Mobile** especializado em **Flutter** e **iOS**, focado em trazer a melhor experiência para o usuário.
+Sou um **Desenvolvedor Mobile** apaixonado por criar experiências excepcionais para os usuários. Especializado em **Flutter** e **iOS**, estou sempre em busca de soluções inovadoras e eficientes.
 
-### Sobre
 💼 Mobile Developer [@Tokenlab](https://tokenlab.com.br/pt/home)
 
 🏫 Instituto Federal de São Paulo - IFSP
 
 📌 São Carlos - SP
 
-### Soft Skills
+---
+
+## Hard Skills
+
+#### Linguagens
+- Swift
+- Dart
+- JavaScript
+- TypeScript
+- Kotlin
+
+#### Frameworks
+- Flutter
+- UIKit
+- Node.js
+
+#### Metodologias Ágeis
+- Scrum
+- Kanban
+
+#### Design de Software
+- **Arquitetura**: Layer e Modular Architecture
+- **Padrões de UI**: MVVM, MVC, MVP
+
+#### DevOps
+- Integração Contínua (CI)
+- Entrega Contínua (CD)
+
+---
+
+## Soft Skills
 - Trabalho em Equipe
-- Comunicação
+- Comunicação Eficaz
 - Proatividade
 - Criatividade
 
-### Hard Skills
-- Flutter
-- Swift / UIKit
-- SOLID
-- Clean Code
+---
 
-### Contato
-Email: dani.souza.ribas@gmail.com
+## Contato
+📧 Email: [dani.souza.ribas@gmail.com](dani.souza.ribas@gmail.com)  
+🔗 LinkedIn: [https://www.linkedin.com/in/dsribas/](https://www.linkedin.com/in/dsribas/)
 
-LinkedIn: https://www.linkedin.com/in/dsribas/
+---
+
+Sinta-se à vontade para entrar em contato! Estou sempre aberto a novas oportunidades e colaborações.
